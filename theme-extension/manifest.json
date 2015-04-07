@@ -1,10 +1,10 @@
 {
-  "name": "Material Dark DevTools Theme",
+  "name": "Material Dark DevTools Theme - Fork",
   "version": "0.1.0",
   "description": "A Chrome DevTools theme, which emphasizes materialism with dark colors.",
   "devtools_page": "devtools.html",
-  "homepage_url": "https://github.com/nitayneeman/material-dark-devtools",
-  "manifest_version": 2,
+  "homepage_url": "https://github.com/betovelandia/material-dark-devtools",
+  "manifest_version": 3,
   "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",

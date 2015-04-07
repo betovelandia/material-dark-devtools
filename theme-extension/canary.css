@@ -1928,7 +1928,7 @@ li.breakpoint-hit .breakpoint-hit-marker {
 .CodeMirror-lines,
 #search-results-pane-file-based .search-match,
 ::shadow #search-results-pane-file-based .search-match {
-  line-height: 20px !important;
+  line-height: 15px !important;
 }
 .panel.elements .outline-disclosure li.parent::before {
   margin-top: 1px;
