@@ -2348,7 +2348,7 @@ label.checkbox,
 .cm-js-number,
 .section .properties .number,
 .event-properties .number {
-  color: #89f5a2 !important;
+  color: #cd3f45 !important;
 }
 .cm-js-operator {
   color: #cccccc !important;
@@ -2824,19 +2824,19 @@ body /deep/ .cm-js-keyword {
   font-style: italic !important;
 }
 body /deep/ .cm-js-number {
-  color: #89f5a2 !important;
+  color: #cd3f45 !important;
 }
 body /deep/ .cm-js-comment {
   color: #676767 !important;
 }
 body /deep/ .cm-js-string {
-  color: #8f8f8f !important;
+  color: #55b5db !important;
 }
 body /deep/ .cm-js-string-2 {
-  color: #8f8f8f !important;
+  color: #55b5db !important;
 }
 body /deep/ .cm-css-keyword {
-  color: #546e7a !important;
+  color: #55b5db !important;
 }
 body /deep/ .cm-css-number {
   color: #cccccc !important;
@@ -2991,7 +2991,7 @@ body ::shadow .cm-js-meta {
   color: #d8fa3c !important;
 }
 body ::shadow .cm-js-number {
-  color: #89f5a2 !important;
+  color: #cd3f45 !important;
 }
 body ::shadow .cm-js-operator {
   color: #cccccc !important;
@@ -3000,10 +3000,10 @@ body ::shadow .cm-js-property {
   color: #fff !important;
 }
 body ::shadow .cm-js-string {
-  color: #8f8f8f !important;
+  color: #55b5db !important;
 }
 body ::shadow .cm-js-string-2 {
-  color: #8f8f8f !important;
+  color: #55b5db !important;
 }
 body ::shadow .cm-js-tag {
   color: #55b5db !important;
