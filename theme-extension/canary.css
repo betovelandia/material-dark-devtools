@@ -3925,5 +3925,5 @@ body /deep/ .vbox, .console-group {
 }
 
 html /deep/ .platform-mac {
-  font-family: 'Helvetica';
+  font-family: 'Ubuntu' 'Helvetica';
 }
