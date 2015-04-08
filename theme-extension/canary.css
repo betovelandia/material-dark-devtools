@@ -3913,3 +3913,17 @@ body .sidebar-pane .parent:not(.event-category) + .children.expanded {
 ::shadow .bezier-curve path.bezier-path {
   stroke: #000 !important;
 }
+
+
+/* Aditional stuff */
+body /deep/ .vbox, .console-group {
+  background-color: #151718;
+}
+
+.console-group {
+  font-family: Monaco !important;
+}
+
+html /deep/ .platform-mac {
+  font-family: 'Helvetica';
+}
