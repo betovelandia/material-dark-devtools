@@ -2664,7 +2664,7 @@ label.checkbox,
 }
 .tabbed-pane:not(.help-window-main) .tabbed-pane-header .tabbed-pane-header-tab.selected {
   background: none !important;
-  border-top: 2px solid #55b5db !important;
+  border-top: 3px solid #55b5db !important;
   color: #f8f8f8 !important;
   font-size: 1em;
 }
@@ -3694,7 +3694,7 @@ body .inspector-view-tabbed-pane.tabbed-pane::shadow .tabbed-pane-header {
 }
 .tabbed-pane::shadow .tabbed-pane-header-tab.selected {
   background: none !important;
-  border-top: 2px solid #55b5db !important;
+  border-top: 3px solid #55b5db !important;
   color: #f8f8f8 !important;
   font-size: 1em;
 }
