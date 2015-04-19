@@ -3927,3 +3927,12 @@ body /deep/ .vbox, .console-group {
 html /deep/ .platform-mac {
   font-family: 'Ubuntu' 'Helvetica';
 }
+
+div#console-messages {
+  background-color: #151718 !important;
+}
+
+@media (-webkit-min-device-pixel-ratio: 1.5)
+.error-icon-small, .warning-icon-small, .device-icon-small {
+  background-image: url(images/tesdt_2x.png);
+}
